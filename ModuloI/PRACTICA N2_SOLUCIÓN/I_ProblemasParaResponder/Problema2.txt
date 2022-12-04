@@ -1,0 +1,5 @@
+2. La herencia se utiliza para obtener las características de una clase.
+   a. Verdadero 
+   b. Falso
+
+Respuesta: a. Verdadero

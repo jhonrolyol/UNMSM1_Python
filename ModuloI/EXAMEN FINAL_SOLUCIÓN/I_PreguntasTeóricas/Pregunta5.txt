@@ -1,0 +1,6 @@
+5. Defina el concepto de referencia (con sus propias palabras) en las funciones.
+
+Recordemos que la variable cuando se pasa como referencia actuará sobre la variable 
+pasada lo cual los cambios repercutiran a la variable principal.
+
+

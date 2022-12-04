@@ -1,0 +1,7 @@
+8. ¿Cuáles son las dos características principales que tiene el concepto de Herencia
+en Python? Defínelas y explíquelas.
+
+Los dos características más importantes de una herencia (donde una herencia consiste en crear 
+clases nuevas a partir de clases preexistentes) son las clases padre e hija, donde se toman 
+atributos y comportamientos de las clases padre para tipificar una nueva situación.  
+

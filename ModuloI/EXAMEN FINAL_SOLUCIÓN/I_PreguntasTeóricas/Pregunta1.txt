@@ -1,0 +1,7 @@
+1. ¿Cuál es la diferencia entre una Lista y una Tupla?
+
+Respuesta:
+
+ - Las listas se crean con "[...]" y es un tipo de colección ordenada.
+ - En cambio las tuplas se crean con "(...)" y son inmutables. 
+

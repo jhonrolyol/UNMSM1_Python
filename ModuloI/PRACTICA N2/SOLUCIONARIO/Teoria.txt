@@ -1,0 +1,34 @@
+I. PROBLEMAS PARA RESPONDER:
+
+1. ¿Cuál es la descripción que crees que define mejor el concepto 'clase' en la programación orientada a objetos?
+a. Es un concepto similar al de 'array'.
+b. Es un tipo particular de variable.
+c. Es un modelo o plantilla a partir de la cual creamos objetos
+d. Es una categoría de datos ordenada secuencialmente.
+
+2. La herencia se utiliza para obtener las características de una clase.
+a. Verdadero
+b. Falso
+
+3. En la programación existen diversas metodologías para resolver un problema.
+a. Verdadero.
+b. Falso.
+
+4. ¿Qué elementos definen un objeto?
+a. Su cardinalidad y su tipo
+b. Sus atributos y sus métodos
+c. La forma en que se establece comunicación e intercambia mensajes.
+d. Su interfaz y los eventos asociados.
+
+5. ¿Qué significa “instanciar una clase”?
+a. Duplicar una clase.
+b. Eliminar una clase.
+c. Crear un objeto a partir de la clase.
+d. Conectar dos clases entre sí.
+
+RESPUESTAS:
+1. c. Es un modelo o plantilla a partir de la cual creamos objetos
+2. a. Verdadero
+3. a. Verdadero.
+4. b. Sus atributos y sus métodos
+5. c. Crear un objeto a partir de la clase.

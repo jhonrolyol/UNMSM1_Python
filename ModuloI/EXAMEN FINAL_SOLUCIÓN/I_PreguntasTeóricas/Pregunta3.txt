@@ -1,0 +1,5 @@
+3. ¿Cuáles son las dos cosas que nos permiten realizar la sentencia “return”?
+
+a. El primer return fuerza una salida inmediata a la función.
+b. Mientras que en el otro caso se puede usar para devolver un valor.
+

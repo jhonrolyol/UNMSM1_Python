@@ -1,0 +1,7 @@
+2. ¿Cuáles son los dos principios de las funciones vistos en clase?
+
+a. El primer principio es la reusabilidad, es decir, en términos simples
+una función se puede usar varias veces.
+
+b. Mientras que la modularidad tiene que ver con que hay varias partes que interactuan.
+

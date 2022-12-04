@@ -1,0 +1,8 @@
+4. ¿Qué elementos definen un objeto?
+   a. Su cardinalidad y su tipo
+   b. Sus atributos y sus métodos
+   c. La forma en que se establece comunicación e intercambia mensajes.
+   d. Su interfaz y los eventos asociados.
+
+Respuesta: b. Sus atributos y sus métodos.
+

@@ -1,0 +1,6 @@
+6. Defina qué son los atributos de instancia:
+
+Recordemos que los atributos de instancia son particulares 
+para cada objeto creado con esa clase.
+
+

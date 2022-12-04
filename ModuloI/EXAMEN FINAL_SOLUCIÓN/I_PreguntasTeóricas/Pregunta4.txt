@@ -1,0 +1,6 @@
+4. Defina el concepto de valor (con sus propias palabras) en las funciones.
+
+Recordemos que un parámetro pasado por valor creará una copia 
+local de la variable, lo cual cualquier cambio
+sobre la misma no tendrá repercusiones sobre la principal.
+

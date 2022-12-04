@@ -1,0 +1,6 @@
+3. En la programación existen diversas metodologías para resolver un problema.
+   a. Verdadero.
+   b. Falso.
+
+Respuesta: a.Verdadero
+

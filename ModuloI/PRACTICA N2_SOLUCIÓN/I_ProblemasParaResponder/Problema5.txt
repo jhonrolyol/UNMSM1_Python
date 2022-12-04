@@ -1,0 +1,8 @@
+5. ¿Qué significa “instanciar una clase”?
+   a. Duplicar una clase.
+   b. Eliminar una clase.
+   c. Crear un objeto a partir de la clase.
+   d. Conectar dos clases entre sí.
+
+Respuesta: c. Crear un objeto a partir de la clase.
+

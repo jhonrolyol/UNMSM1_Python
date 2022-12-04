@@ -1,0 +1,6 @@
+7. Defina qué son los atributos de clase:
+
+Recordemos que los atributos de clase son compartidos 
+por todas las instancias de esa clase.
+
+

@@ -1,0 +1,9 @@
+1. ¿Cuál es la descripción que crees que define mejor el concepto 'clase' en la 
+programación orientada a objetos?
+
+   a. Es un concepto similar al de 'array'.
+   b. Es un tipo particular de variable.
+   c. Es un modelo o plantilla a partir de la cual creamos objetos
+   d. Es una categoría de datos ordenada secuencialmente.
+
+Respuesta: c. Es un modelo o plantilla a partir de la cual creamos objetos. 
